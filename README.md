@@ -9,14 +9,23 @@
 
 <p align="center">
   <a href="https://github.com/beyondthecode-bc/MacFansControl/releases/latest"><img src="https://img.shields.io/github/v/release/beyondthecode-bc/MacFansControl?style=flat-square&label=Download&color=blue" alt="Latest Release"></a>
-  <img src="https://img.shields.io/badge/platform-macOS%2014%2B-lightgrey?style=flat-square" alt="Platform">
-  <img src="https://img.shields.io/badge/chip-Apple%20Silicon%20%2B%20Intel-orange?style=flat-square" alt="Apple Silicon + Intel">
-  <img src="https://img.shields.io/badge/languages-8-green?style=flat-square" alt="Languages">
+  <a href="https://github.com/beyondthecode-bc/MacFansControl/releases/latest"><img src="https://img.shields.io/github/downloads/beyondthecode-bc/MacFansControl/total?style=flat-square&label=Downloads&color=brightgreen" alt="Downloads"></a>
   <a href="https://github.com/beyondthecode-bc/MacFansControl/stargazers"><img src="https://img.shields.io/github/stars/beyondthecode-bc/MacFansControl?style=flat-square" alt="Stars"></a>
+  <img src="https://img.shields.io/github/license/beyondthecode-bc/MacFansControl?style=flat-square" alt="License">
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/platform-macOS%2014%2B-lightgrey?style=flat-square&logo=apple" alt="Platform">
+  <img src="https://img.shields.io/badge/chip-Apple%20Silicon%20%2B%20Intel-orange?style=flat-square&logo=apple" alt="Apple Silicon + Intel">
+  <img src="https://img.shields.io/badge/swift-6.1-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/SwiftUI-native-007AFF?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI">
+  <img src="https://img.shields.io/badge/languages-8-green?style=flat-square&logo=translate" alt="Languages">
+</p>
+
+<p align="center">
+  <a href="https://www.virustotal.com/gui/file/98465a298de7f52f089fdd3cb67f993417fafbaff0b11d1a4b0117315d831462"><img src="https://img.shields.io/badge/VirusTotal-0%2F70%20Clean-brightgreen?style=flat-square&logo=virustotal&logoColor=white" alt="VirusTotal"></a>
   <a href="https://github.com/sponsors/beyondthecode-bc"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=flat-square&logo=github" alt="GitHub Sponsors"></a>
+  <a href="https://www.buymeacoffee.com/BEYONDTHECODE"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee"></a>
 </p>
 
 <p align="center">
