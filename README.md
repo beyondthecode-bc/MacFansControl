@@ -31,6 +31,17 @@ Download the latest version from [**Releases**](https://github.com/beyondthecode
 
 The app includes a built-in update checker — go to **Settings → About → Check Now** to see if a newer version is available and download it directly.
 
+### Verification
+
+Every release is scanned on [VirusTotal](https://www.virustotal.com) before publishing. You can verify the download yourself:
+
+| | |
+|---|---|
+| **SHA-256** | `98465a298de7f52f089fdd3cb67f993417fafbaff0b11d1a4b0117315d831462` |
+| **VirusTotal Report** | [View full scan results](https://www.virustotal.com/gui/file/98465a298de7f52f089fdd3cb67f993417fafbaff0b11d1a4b0117315d831462) |
+
+To verify the hash locally: `shasum -a 256 MacFansControl.zip`
+
 ## Features
 
 **Temperature Monitoring**
