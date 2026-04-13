@@ -29,7 +29,7 @@
 
 Download the latest version from [**Releases**](https://github.com/beyondthecode-bc/MacFansControl/releases/latest). Unzip, move `MacFansControl.app` to Applications, and launch.
 
-The app includes built-in auto-updates via [Sparkle](https://sparkle-project.org) — you'll be notified when new versions are available.
+The app includes a built-in update checker — go to **Settings → About → Check Now** to see if a newer version is available and download it directly.
 
 ## Features
 
