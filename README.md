@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.virustotal.com/gui/file/98465a298de7f52f089fdd3cb67f993417fafbaff0b11d1a4b0117315d831462"><img src="https://img.shields.io/badge/VirusTotal-0%2F70%20Clean-brightgreen?style=flat-square&logo=virustotal&logoColor=white" alt="VirusTotal"></a>
+  <a href="https://www.virustotal.com/gui/file/d754f0bbf255415c468e76c715d2bcc3c544ce68f4bbd19f0f36a2138ecd7f7d"><img src="https://img.shields.io/badge/VirusTotal-0%2F70%20Clean-brightgreen?style=flat-square&logo=virustotal&logoColor=white" alt="VirusTotal"></a>
   <a href="https://github.com/sponsors/beyondthecode-bc"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=flat-square&logo=github" alt="GitHub Sponsors"></a>
   <a href="https://www.buymeacoffee.com/BEYONDTHECODE"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee"></a>
 </p>
@@ -46,8 +46,8 @@ Every release is scanned on [VirusTotal](https://www.virustotal.com) before publ
 
 | | |
 |---|---|
-| **SHA-256** | `98465a298de7f52f089fdd3cb67f993417fafbaff0b11d1a4b0117315d831462` |
-| **VirusTotal Report** | [View full scan results](https://www.virustotal.com/gui/file/98465a298de7f52f089fdd3cb67f993417fafbaff0b11d1a4b0117315d831462) |
+| **SHA-256** | `d754f0bbf255415c468e76c715d2bcc3c544ce68f4bbd19f0f36a2138ecd7f7d` |
+| **VirusTotal Report** | [View full scan results](https://www.virustotal.com/gui/file/d754f0bbf255415c468e76c715d2bcc3c544ce68f4bbd19f0f36a2138ecd7f7d) |
 
 To verify the hash locally: `shasum -a 256 MacFansControl.zip`
 
