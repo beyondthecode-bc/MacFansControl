@@ -34,6 +34,22 @@
 
 ---
 
+## Screenshots
+
+<p align="center">
+  <img src="images/screenshot-menubar.png" alt="Menu bar dropdown" width="220">
+  &nbsp;&nbsp;
+  <img src="images/screenshot-sensors.png" alt="Sensors settings" width="520">
+</p>
+
+<p align="center">
+  <img src="images/screenshot-fans.png" alt="Fan control settings" width="520">
+  &nbsp;&nbsp;
+  <img src="images/screenshot-general.png" alt="General settings" width="520">
+</p>
+
+---
+
 ## Download
 
 Download the latest version from [**Releases**](https://github.com/beyondthecode-bc/MacFansControl/releases/latest). Unzip, move `MacFansControl.app` to Applications, and launch.
