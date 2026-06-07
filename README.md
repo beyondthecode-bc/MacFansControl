@@ -34,6 +34,10 @@
 
 ---
 
+> [!NOTE]
+> **This repository is the MacFansControl community hub** — translations, issue tracking, and releases. MacFansControl is a free, closed-source macOS app; the source code is not published here. **[Download MacFansControl from Releases](https://github.com/beyondthecode-bc/MacFansControl/releases/latest).**
+
+
 ## Screenshots
 
 <p align="center">
