@@ -132,7 +132,7 @@ Download and move `MacFansControl.app` to your Applications folder.
 
 On first launch, open **Preferences > General** and click **Install Helper**.
 
-The background helper allows MacFansControl to change fan speeds without asking for your password every time. Since the app is not yet signed with an Apple Developer certificate (coming soon), macOS will prompt for your administrator password during installation. This is a one-time setup — once installed, fan control works silently in the background.
+The background helper allows MacFansControl to change fan speeds without asking for your password every time. Installing it requires your administrator password once. This is a one-time setup — once installed, fan control works silently in the background.
 
 > **Why is this needed?** Changing fan speeds requires elevated (root) privileges. The helper runs as a small background service that handles these privileged operations securely via XPC, so the main app never needs root access itself.
 
@@ -189,32 +189,11 @@ If MacFansControl saves you from fan noise or thermal throttling, consider suppo
 
 ## Troubleshooting
 
-### "MacFansControl" Not Opened — Gatekeeper warning
-
-MacFansControl is not yet notarized with Apple (Apple Developer certificate coming soon). On first launch you may see this dialog:
-
-<p align="center">
-  <img src="images/gatekeeper-not-opened.png" alt="MacFansControl Not Opened dialog" width="220">
-</p>
-
-**To fix this:**
-
-1. Click **Done** to dismiss the dialog
-2. Open **System Settings > Privacy & Security**
-3. Scroll down — you'll see a message that MacFansControl was blocked
-4. Click **Open Anyway**
-
-<p align="center">
-  <img src="images/gatekeeper-blocked.png" alt="Open Anyway in Privacy and Security" width="420">
-</p>
-
-This only needs to be done once. After that, the app will open normally.
-
 ### Password prompt every time I change fan speed
 
 You need to install the background helper. Go to **Preferences > General** and click **Install Helper**. The helper runs as a privileged background service so you won't be asked for your password on every fan speed change.
 
-Since the app doesn't have an Apple Developer certificate yet, macOS will ask for your administrator password once during helper installation. This is expected and safe — the helper is a small daemon that only handles fan speed writes via the SMC interface.
+macOS will ask for your administrator password once during helper installation. This is expected and safe — the helper is a small daemon that only handles fan speed writes via the SMC interface.
 
 ### "Could not move to Applications" — read-only volume error
 
